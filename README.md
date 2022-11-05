@@ -1,3 +1,3 @@
 # Hacked-YMCA-Freaks
 
-![QR Code](https://i.imgur.com/0Xu5CbF.jpg | width=100)
+<img src="http://url.to/image.png" align="left" height="48" width="48" >
