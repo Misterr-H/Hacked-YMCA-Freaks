@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863756050593",
+    "project_id": "angela-eab82",
+    "storage_bucket": "angela-eab82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863756050593:android:fd1b6cbefd9bf72f9790e0",
+        "android_client_info": {
+          "package_name": "com.misterh.tech.angela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863756050593-p1a71pq0k6pv5mlglqnc2eaidsgr47j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJTiIg7PyREouqhhHtH-2c2NtN_IBWJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863756050593-p1a71pq0k6pv5mlglqnc2eaidsgr47j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
